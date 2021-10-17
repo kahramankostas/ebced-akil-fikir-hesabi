@@ -2,7 +2,7 @@
 # Ebced ile Akıl Fikir Hesaplama
 
 Eskiden çocuklara isim seçmede izlenen yollardan bir tanesi de [ebced](https://tr.wikipedia.org/wiki/Ebced_hesab%C4%B1) ile ismin akıl ve fikir değerlerini hesaplayarak, en iyi-yüksek değeri vermekti. Bu bağlamda, seçtiğiniz isimlerin akıl ve fikir değerlerini hesaplayan basit bir program yazdım.
-Ben bu tarz yöntemleri muteber bulmuyorum ancak kafanızda çok fazla potansiyel isim varsa elemenize faydası dokunacaktır. Ayrıca kodlaması eğlenceliydi.
+Bu tarz yöntemleri muteber bulmuyorum ancak kafanızda çok fazla potansiyel isim varsa elemenize faydası dokunacaktır. Ayrıca kodlaması eğlenceliydi.
 
 ![ekran görüntüsü](1.jpg)
 
